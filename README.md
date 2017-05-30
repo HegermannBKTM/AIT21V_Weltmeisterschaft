@@ -1,2 +1,2 @@
 Testprojekt der AIT21V <br />
-zum probieren von git
+zum Probieren von git
